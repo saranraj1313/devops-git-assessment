@@ -1,2 +1,3 @@
 Learning Git, GitHub, Branching and Merging.
 Practicing Git commit, branch and merge operations.
+Practicing Git commit, branch and merge operations.
